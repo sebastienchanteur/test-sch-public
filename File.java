@@ -1,4 +1,4 @@
-main(String param){
+main(String param, int param2){
   
   
 }
